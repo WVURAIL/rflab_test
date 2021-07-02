@@ -42,19 +42,12 @@ VNA.timeout =  10000
 #  Operating Mode. Case-sensitive. Choose from the modes that are installed on your FieldFox:
 # 
 # "CAT"
-# 
 # "IQ"
-# 
 # "NA"
-# 
 # "SA"
-# 
 # "Power Meter"
-# 
 # "VVM"
-# 
 # "Pulse Measurements"
-# 
 # "ERTA"
 #  
 # Examples
@@ -137,23 +130,14 @@ def measure_s_parameter(measurement, output_power,start_freq, stop_freq, serial_
 # Reverse measurements are available ONLY with full S-parameter option.
 # 
 # S11 - Forward reflection measurement
-# 
 # S21 - Forward transmission measurement
-# 
 # S12 - Reverse transmission
-# 
 # S22 - Reverse reflection
-# 
 # A - A receiver measurement
-# 
 # B - B receiver measurement
-# 
 # R1 - Port 1 reference receiver measurement
-# 
 # R2 - Port 2 reference receiver measurement
 # ```
-# In[ ]:
-
 ##########################################################################
 ## set start and stop freq
 
