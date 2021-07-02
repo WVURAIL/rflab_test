@@ -2,11 +2,10 @@
 # coding: utf-8
 # # VNA Control 
 # # # All commands http://na.support.keysight.com/pna/help/latest/Programming/GP-IB_Command_Finder/
-FieldFox Programming Guide (keysight.com) http://na.support.keysight.com/fieldfox/help/Programming/webhelp/FFProgrammingHelp.htm
+# # # http://na.support.keysight.com/fieldfox/help/Programming/webhelp/FFProgrammingHelp.htm
 ##############################################################################
 #   import python packages 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
 import numpy as np
 import matplotlib.pyplot as plt
 import numpy as np
