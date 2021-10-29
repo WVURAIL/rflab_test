@@ -1,2 +1,2 @@
 # rflab_test
-Scripts for RF laboratory instruments and measurements
+Scripts for RF laboratory testing instruments and measurements
