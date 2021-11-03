@@ -142,8 +142,8 @@ def intialize_network_analyzer():
     global VNA
     ##############################################################################
     # load visa library
-    rm = visa.ResourceManager(
-        VISA_LIB_FILE_PATH)  # windows
+    rm = visa.ResourceManager() # pyvisa shoudl automatically find libraries if not can specify the library as below
+    #rm = visa.ResourceManager(VISA_LIB_FILE_PATH)  # windows
     # TODO linux
     # https://edadocs.software.keysight.com/kkbopen/linux-io-libraries-faq-589309025.html
     # https://www.keysight.com/us/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html click linux
