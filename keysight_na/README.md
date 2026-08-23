@@ -1,3 +1,13 @@
+# Archived snapshot notice
+
+The scripts and licence in this directory are a frozen 2021 snapshot retained
+for old links and historical context. The canonical archive is
+[`WVURAIL/keysight_network_analyser_control`](https://github.com/WVURAIL/keysight_network_analyser_control).
+This README retains its original instructions below; current users should begin
+with the canonical archive.
+
+## Original 2021 documentation
+
 # keysight_network_analyser_control
 Scripts to control and extract data from a Keysight Network Analyser
 
