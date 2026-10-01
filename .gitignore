@@ -1,0 +1,12 @@
+# Python bytecode and local virtual environments
+__pycache__/
+*.pyc
+*.pyo
+/.venv/
+/venv/
+
+# Local editor and desktop metadata
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
